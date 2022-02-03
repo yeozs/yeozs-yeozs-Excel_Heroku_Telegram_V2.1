@@ -50,7 +50,7 @@ Controlling Heroku from Terminal:
 ------------------------------------------------------
 Improvements from Version 1.0:
 - Account for transfer of data from intranet to internet computer
-- V1.0 runs on Replit. V2.0 is shown to run on Macbook, expected to run on Windows, Linux.
+- V1.0 runs on Replit. V2.1 is shown to run on Macbook, expected to run on Windows, Linux.
 
 Drawbacks of this Telegram Bot:
 - *1 Unable to automate step to login to Heroku at terminal. Do write to me on how to improve this step! :)

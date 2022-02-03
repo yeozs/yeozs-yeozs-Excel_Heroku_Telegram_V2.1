@@ -1,4 +1,4 @@
-# Excel_Heroku_Telegram_V2.0 [Improved Version of sqnexcel-Telegram-Bot-to-Heroku-V1.0]
+# Excel_Heroku_Telegram_V2.1 [Improved Version of sqnexcel-Telegram-Bot-to-Heroku-V1.0]
 Sending Excel data from a intranet computer to Telegram on Internet Computer
 ------------------------------------------------------
 Reason for Creating Bot: Imagine a workplace with daily programme details stored in an intranet excel file. Everyday, individuals will manually grab particular details from the excel file, and type them into telegram to send to the main telegram group chat via the internet. This app aims to kick start a telegram bot that automates the process of grabbing certain details from the daily programme intranet excel file and uploading them to telegram via internet.
